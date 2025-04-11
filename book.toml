@@ -1,5 +1,4 @@
 [book]
-multilingual = false
 src = "src"
 title = "The OpenRA Book"
 authors = [ "Taryn Hill <taryn@phrohdoh.com>", "abcdefg30 <alphabet@streber24.de>" ]
